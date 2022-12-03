@@ -1,0 +1,16 @@
+.book{
+    background-color: beige;
+    align-items: center;
+    
+
+}
+.btn{
+    padding: 5px 8px;
+    
+    border-radius: 2px solid black;
+    background-color    : aqua;
+       
+}
+.btn:hover{
+    background-color: cadetblue;
+}
